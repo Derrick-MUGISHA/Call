@@ -1,5 +1,4 @@
 import { CallRoom } from "@/components/call/call-room";
-import React from "react";
 
 interface CallRoomPageProps {
   params: Promise<{ id: string }>;
